@@ -55,7 +55,7 @@ docker run -p 8080:8080 server
     "count": 2,
     "visits": [
         {
-            "store_id": "5",
+            "store_id": "RP00001",
             "image_url": [
                 "https://www.gstatic.com/webp/gallery/2.jpg",
                 "https://www.gstatic.com/webp/gallery/3.jpg"
@@ -63,7 +63,7 @@ docker run -p 8080:8080 server
             "visit_time": "2024-07-27T10:00:00Z"
         },
         {
-            "store_id": "S01408767",
+            "store_id": "RP0002",
             "image_url": [
                 "https://www.gstatic.com/webp/gallery/3.jpg"
             ],
