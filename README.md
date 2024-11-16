@@ -15,7 +15,10 @@ Assumptions:
 - Flag a whole transaction as rejection if either of the payload info is wrong. eg visit[0] has all the right information and visit[1] does not have all the right information both the visits are considered as error.
 - Taking AreaCode as a string/Text.
 
+## Flow Diagram.
+![image](https://github.com/user-attachments/assets/0b18988b-dc03-450f-8ff5-7e10798db036)
 
+# Installation
 ###  Without Docker
 
 1. **Clone the repository:**
